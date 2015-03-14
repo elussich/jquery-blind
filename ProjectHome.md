@@ -1,0 +1,1 @@
+jQuery plugin that enables a "blind" behavior on an element.
